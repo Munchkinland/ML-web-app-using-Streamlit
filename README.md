@@ -2,7 +2,7 @@
 
 ![DALL·E 2023-12-28 13 24 26 - A young, enthusiastic female programmer with a geeky appearance, deeply focused on coding in front of a computer  The computer screen should display e](https://github.com/Munchkinland/ML-web-app-using-Streamlit/assets/92251234/1d4e03bc-73aa-4f7e-be5b-d42a57f0c92f)
 
-Description 📚
+## Description 📚
 
 This project aims to demonstrate the capabilities of the Streamlit library for creating machine learning applications quickly and efficiently. Through this demo, we compare Streamlit with more complex libraries like Flask, highlighting its simplicity and integrated features that facilitate ML application development.
 Features
