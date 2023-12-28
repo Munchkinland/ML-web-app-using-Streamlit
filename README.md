@@ -1,6 +1,6 @@
 # Streamlit Demo Project
 
-
+![DALL·E 2023-12-28 13 24 26 - A young, enthusiastic female programmer with a geeky appearance, deeply focused on coding in front of a computer  The computer screen should display e](https://github.com/Munchkinland/ML-web-app-using-Streamlit/assets/92251234/1d4e03bc-73aa-4f7e-be5b-d42a57f0c92f)
 
 Description 📚
 
@@ -34,3 +34,5 @@ Contributions are welcome. Please read CONTRIBUTING.md for details on how to con
 License
 
 This project is licensed under the MIT License. See LICENSE.md for more details.
+
+Learn more about streamlit 👉 https://streamlit.io/
